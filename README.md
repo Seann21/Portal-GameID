@@ -2,7 +2,7 @@
 
 <img src="./public/Portal Game ID.png" alt="portalgameid_mockup" width="700" height="650" align="center" />
 
-Portal Game ID adalah sebuah aplikasi web yang menghadirkan daftar game yang menarik, dikembangkan menggunakan React JS sebagai framework utama sisi klien. Dirancang dengan kecepatan dan efisiensi pengembangan, Vite digunakan sebagai bundler untuk memastikan pengalaman pengembangan yang optimal. Dengan sentuhan desain yang modern dan responsif, proyek ini menggunakan Tailwind CSS sebagai kerangka gaya utama untuk memastikan tampilan antarmuka yang menarik dan adaptif.
+Portal Game ID is a web application that presents a list of interesting games, developed using React JS as the main client-side framework. Designed with development speed and efficiency in mind, Vite is used as a bundler to ensure an optimal development experience. With a modern and responsive design touch, the project uses Tailwind CSS as the main styling framework to ensure an attractive and adaptive interface.
 
 ### Live Demo 
 [Portal Game ID Clone Demo](https://portal-game-id.vercel.app/)
