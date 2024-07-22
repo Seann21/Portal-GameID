@@ -1,6 +1,11 @@
-# Portal Game ID
+<h1 align="center"> Portal Game ID </h1>
 
-<img src="./public/Portal Game ID.png" alt="portalgameid_mockup" width="700" height="650" align="center" />
+<div align="center">
+  <img src="./public/Portal Game ID.png" alt="app" width="600" height="500" />
+</div>
+
+<br>
+
 
 Portal Game ID is a web application that presents a list of interesting games, developed using React JS as the main client-side framework. Designed with development speed and efficiency in mind, Vite is used as a bundler to ensure an optimal development experience. With a modern and responsive design touch, the project uses Tailwind CSS as the main styling framework to ensure an attractive and adaptive interface.
 
